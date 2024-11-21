@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class NextGreater {
+public class NextGreater_2 {
     public static int[] returnNextGreater(int[] arr) {
         Stack<Integer> st = new Stack<>();
         int[] result = new int[arr.length];
